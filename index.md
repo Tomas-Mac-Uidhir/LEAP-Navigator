@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Make Jelly site have a GitBook look!
+Welcome to the LEAP Ireland output page!

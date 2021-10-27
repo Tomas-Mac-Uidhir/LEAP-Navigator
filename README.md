@@ -1,4 +1,4 @@
-# Jekyll GitBook
+# LEAP Ireland output page
 
 Make Jelly site have a GitBook look!
 
